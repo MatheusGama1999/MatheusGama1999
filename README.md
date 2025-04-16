@@ -10,11 +10,11 @@ Me chamo Matheus, sou um programador Front-end, atualmente estou aprendendo e cr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGama1999&layout=donut&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 <br>
-<a>
+<a href="https://www.instagram.com/matheusgamavieira?igsh=MWlwdXJocjdxajdmYQ==" target="_blank" rel="noopener noreferrer">
 <img align= "left" width="22px" src="https://cdn.jsdeLivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="logo-instagram"> <br>
-</a>
+</a> 
 <br>
-<a>
+<a href="https://cdn.jsdeLivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" rel="noopener noreferrer">
   <img align= "left" width="22px" src="https://cdn.jsdeLivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="logo-linkedin"> <br>
 </a>
   
