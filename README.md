@@ -1,16 +1,21 @@
 ## Hi there 👋
-
-<!--
-**MatheusGama1999/MatheusGama1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer:
+Me chamo Matheus, sou um programador Front-end, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java-script">
+[![Matheus stats](https://github-readme-stats.vercel.app/api?username=MatheusGama1999&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGama1999&layout=donut&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
+<br>
+<a>
+<img align= "left" width="22px" src="https://cdn.jsdeLivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="logo-instagram"> <br>
+</a>
+<br>
+<a>
+  <img align= "left" width="22px" src="https://cdn.jsdeLivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="logo-linkedin"> <br>
+</a>
+  
+  
